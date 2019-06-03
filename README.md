@@ -9,3 +9,8 @@ Appium Calculator
     
 ## PageObject
 - Very barebones page object created
+
+
+## Project Set Up
+- JDK 8 (Needed for UIAutomatorViewer
+- Appium needs to be installed globally
